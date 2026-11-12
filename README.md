@@ -22,7 +22,7 @@ Skills load automatically when relevant. To force one: `/pm-skill:create-prd`.
 
 To use a single skill without the plugin, copy its folder to `~/.claude/skills/` (or `.claude/skills/` in a project).
 
-See also [PROMPTS.md](PROMPTS.md): a cheat sheet of copy-paste PM prompts (in Polish), including ones that call these skills.
+See also the cheat sheet of copy-paste PM prompts, including ones that call these skills: [English](PROMPTS.en.md) · [Polski](PROMPTS.md).
 
 ## Changes from upstream
 

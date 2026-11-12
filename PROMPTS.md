@@ -1,5 +1,7 @@
 # Ściąga promptów dla PM
 
+[English version](PROMPTS.en.md)
+
 Prompty do skopiowania. W nawiasach `[...]` wstaw swoje dane. Tam, gdzie istnieje skill z tego repo, prompt go uruchamia; resztę model zrobi dobrze bez skilla, jeśli dostanie właściwe ograniczenia.
 
 ## Zasady, które robią różnicę
