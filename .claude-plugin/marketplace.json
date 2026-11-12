@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "pm-skill",
+  "owner": {
+    "name": "Michal Michulec"
+  },
+  "plugins": [
+    {
+      "name": "pm-skill",
+      "description": "A curated set of six product-management skills: lean PRDs, strategy red-teaming, pre-mortems, customer interview scripts, survey design and A/B test analysis.",
+      "source": "./"
+    }
+  ]
+}

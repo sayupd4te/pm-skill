@@ -1,0 +1,11 @@
+{
+  "name": "pm-skill",
+  "version": "1.0.0",
+  "description": "A curated set of six product-management skills: lean PRDs, strategy red-teaming, pre-mortems, customer interview scripts, survey design and A/B test analysis.",
+  "author": {
+    "name": "Michal Michulec"
+  },
+  "repository": "https://github.com/sayupd4te/pm-skill",
+  "license": "MIT",
+  "keywords": ["product-management", "prd", "pre-mortem", "red-team", "survey", "interview", "ab-test"]
+}
